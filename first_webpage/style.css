@@ -1,0 +1,9 @@
+h2, h4, h1, h3 span {
+    text-transform: capitalize;
+} 
+
+.as{
+    line-height: 5vh;
+}
+
+
